@@ -23,7 +23,7 @@ Convert SVG images to TikZ code and seamlessly integrate with **TikZJax** – in
 4. Preview the result, then either **copy** it or click **Insert to Document**  
 5. The inserted code is wrapped in the `~~~tikz` block that **TikZJax** recognizes – it will be rendered automatically in your note (provided TikZJax is active)
 
-> **Tip**: For the best experience, install the [TikZJax plugin](https://obsidian.md/plugins?id=tikzjax) from the Obsidian community plugins. This converter produces code fully compatible with TikZJax's rendering engine.
+> **Tip**: For the best experience, install the [TikZJax plugin](https://community.obsidian.md/plugins/obsidian-tikzjax) from the Obsidian community plugins. This converter produces code fully compatible with TikZJax's rendering engine.
 
 ---
 
