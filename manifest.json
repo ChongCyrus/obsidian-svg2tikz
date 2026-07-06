@@ -1,5 +1,5 @@
 {
-  "id": "svg2tikz",
+  "id": "obsidian-svg2tikz",
   "name": "SVG to TikZ Converter",
   "version": "1.0.0",
   "minAppVersion": "0.15.0",
