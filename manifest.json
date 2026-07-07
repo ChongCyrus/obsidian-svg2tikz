@@ -3,7 +3,7 @@
   "name": "SVG to TikZ Converter",
   "version": "1.0.0",
   "minAppVersion": "0.15.0",
-  "description": "Convert SVG images to TikZ code. Insert directly into your notes and render with the TikZJax plugin.",
+  "description": "Convert SVG images to TikZ code. Insert directly into your notes and render with the TikZJax.",
   "author": "ChongCyrus",
   "authorUrl": "https://github.com/ChongCyrus",
   "isDesktopOnly": false
